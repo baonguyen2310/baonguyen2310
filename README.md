@@ -13,3 +13,7 @@
 <p>I initiated and developed the startup project for improving Vietnamese language skills for children aged 2 to 6. It's a React Native app with Firebase integration, using deep learning for object recognition and speech analysis, and Bootstrap for responsive UI.</p>
 <h4><a href="https://ivkids.vercel.app/" target="_blank">Download app</a></h4>
 <h4><a href="https://www.youtube.com/shorts/uB2gtVmhNeY" target="_blank">View Demo</a></h4>
+<h4><a href="https://github.com/baonguyen2310/sv_startup_app" target="_blank">View source code</a></h4>
+<h3 align="left">Project: E-commerce backend</h3>
+<p>I built a secure e-commerce backend with Node.js, Express.js, MongoDB, and Redis for caching. I utilized Winston for logging, implemented error handling, and integrated JWT for authentication.</p>
+<h4><a href="https://github.com/baonguyen2310/e-commerce-backend" target="_blank">View source code</a></h4>
